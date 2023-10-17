@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ran5omware
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in: **.py .java .cpp** ~~reverse ingeneering~~
+- 🌱 I’m currently learning: **git .py .java .cpp**
 - 📫 How to reach me:
 - discord ransomware.
 - telegram @yasifnp
