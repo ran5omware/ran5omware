@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: **git .py .java .cpp**
 - 📫 How to reach me:
 -  discord: ransomware.
--  telegram: @yal0fe
+-  telegram: @ransomware
   
 <!---
 ran5omware/ran5omware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
