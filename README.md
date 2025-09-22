@@ -1,6 +1,5 @@
 - 👋 Sup, I’m @ran5omware, program engineer student
-- 👀 I’m interested in: **.py .java .cpp** ~~reverse ingeneering~~
-- 🌱 I’m currently learning: **git .py .java .cpp**
+- 👀 I’m interested in: **.py SQL** ~~1С~~
 - 📫 How to reach me:
 -  discord: ransomware.
 -  telegram: @ran5omware
